@@ -1,0 +1,33 @@
+ERROR - 20180321171420 --> Severity: Warning --> mysqli::real_connect(): (HY000/1129): Host '10.0.2.2' is blocked because of many connection errors; unblock with 'mysqladmin flush-hosts' E:\vagrant\ubuntu\ci\system\database\drivers\mysqli\mysqli_driver.php 201
+ERROR - 20180321171420 --> Unable to connect to the database
+ERROR - 20180321171517 --> Severity: error --> Exception: Call to undefined method CI_Loader::select() E:\vagrant\ubuntu\ci\application\core\YI_Model.php 65
+ERROR - 20180321171646 --> Severity: Notice --> Undefined property: Test::$getTable E:\vagrant\ubuntu\ci\system\core\Model.php 77
+ERROR - 20180321171654 --> Severity: error --> Exception: Call to undefined method CI_Loader::select() E:\vagrant\ubuntu\ci\application\core\YI_Model.php 65
+ERROR - 20180321171708 --> Severity: Notice --> Undefined property: Test::$getTable E:\vagrant\ubuntu\ci\system\core\Model.php 77
+ERROR - 20180321171752 --> Severity: error --> Exception: Call to undefined method CI_Loader::select() E:\vagrant\ubuntu\ci\application\core\YI_Model.php 65
+ERROR - 20180321171757 --> Severity: error --> Exception: Call to undefined method CI_Loader::select() E:\vagrant\ubuntu\ci\application\core\YI_Model.php 65
+ERROR - 20180321171818 --> Severity: error --> Exception: Call to undefined method CI_Loader::select() E:\vagrant\ubuntu\ci\application\core\YI_Model.php 65
+ERROR - 20180321172049 --> Severity: error --> Exception: Call to undefined method CI_Loader::select() E:\vagrant\ubuntu\ci\application\core\YI_Model.php 65
+ERROR - 20180321173246 --> Severity: error --> Exception: Call to undefined method CI_Loader::select() E:\vagrant\ubuntu\ci\application\core\YI_Model.php 65
+ERROR - 20180321173247 --> Severity: error --> Exception: Call to undefined method CI_Loader::select() E:\vagrant\ubuntu\ci\application\core\YI_Model.php 65
+ERROR - 20180321173247 --> Severity: error --> Exception: Call to undefined method CI_Loader::select() E:\vagrant\ubuntu\ci\application\core\YI_Model.php 65
+ERROR - 20180321173248 --> Severity: error --> Exception: Call to undefined method CI_Loader::select() E:\vagrant\ubuntu\ci\application\core\YI_Model.php 65
+ERROR - 20180321173248 --> Severity: error --> Exception: Call to undefined method CI_Loader::select() E:\vagrant\ubuntu\ci\application\core\YI_Model.php 65
+ERROR - 20180321173249 --> Severity: error --> Exception: Call to undefined method CI_Loader::select() E:\vagrant\ubuntu\ci\application\core\YI_Model.php 65
+ERROR - 20180321173327 --> Severity: error --> Exception: Call to undefined method CI_Loader::select() E:\vagrant\ubuntu\ci\application\core\YI_Model.php 66
+ERROR - 20180321173327 --> Severity: error --> Exception: Call to undefined method CI_Loader::select() E:\vagrant\ubuntu\ci\application\core\YI_Model.php 66
+ERROR - 20180321173328 --> Severity: error --> Exception: Call to undefined method CI_Loader::select() E:\vagrant\ubuntu\ci\application\core\YI_Model.php 66
+ERROR - 20180321173335 --> Severity: error --> Exception: Call to undefined method CI_Loader::select() E:\vagrant\ubuntu\ci\application\core\YI_Model.php 66
+ERROR - 20180321173337 --> Severity: error --> Exception: Call to undefined method CI_Loader::select() E:\vagrant\ubuntu\ci\application\core\YI_Model.php 66
+ERROR - 20180321173407 --> Severity: error --> Exception: Call to undefined method CI_Loader::select() E:\vagrant\ubuntu\ci\application\core\YI_Model.php 66
+ERROR - 20180321173408 --> Severity: error --> Exception: Call to undefined method CI_Loader::select() E:\vagrant\ubuntu\ci\application\core\YI_Model.php 66
+ERROR - 20180321173409 --> Severity: error --> Exception: Call to undefined method CI_Loader::select() E:\vagrant\ubuntu\ci\application\core\YI_Model.php 66
+ERROR - 20180321173431 --> Severity: error --> Exception: Call to undefined method CI_Loader::select() E:\vagrant\ubuntu\ci\application\core\YI_Model.php 66
+ERROR - 20180321173449 --> Severity: error --> Exception: Call to undefined method CI_Loader::select() E:\vagrant\ubuntu\ci\application\core\YI_Model.php 65
+ERROR - 20180321173450 --> Severity: error --> Exception: Call to undefined method CI_Loader::select() E:\vagrant\ubuntu\ci\application\core\YI_Model.php 65
+ERROR - 20180321173450 --> Severity: error --> Exception: Call to undefined method CI_Loader::select() E:\vagrant\ubuntu\ci\application\core\YI_Model.php 65
+ERROR - 20180321173517 --> Severity: error --> Exception: Call to undefined method CI_Loader::select() E:\vagrant\ubuntu\ci\application\core\YI_Model.php 65
+ERROR - 20180321173552 --> Severity: error --> Exception: Call to undefined method CI_Loader::select() E:\vagrant\ubuntu\ci\application\core\YI_Model.php 65
+ERROR - 20180321173615 --> Severity: error --> Exception: Call to undefined method CI_Loader::select() E:\vagrant\ubuntu\ci\application\core\YI_Model.php 65
+ERROR - 20180321095033 --> Severity: error --> Exception: Call to undefined function mysqli_init() /usr/share/nginx/html/system/database/drivers/mysqli/mysqli_driver.php 135
+ERROR - 20180321095135 --> Severity: error --> Exception: Call to undefined function mysqli_init() /usr/share/nginx/html/system/database/drivers/mysqli/mysqli_driver.php 135

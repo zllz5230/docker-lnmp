@@ -1,0 +1,112 @@
+ERROR - 20180322025254 --> Severity: error --> Exception: Call to undefined function mysqli_init() /usr/share/nginx/html/system/database/drivers/mysqli/mysqli_driver.php 135
+ERROR - 20180322025518 --> Severity: error --> Exception: Call to undefined function mysqli_init() /usr/share/nginx/html/system/database/drivers/mysqli/mysqli_driver.php 135
+ERROR - 20180322025519 --> Severity: error --> Exception: Call to undefined function mysqli_init() /usr/share/nginx/html/system/database/drivers/mysqli/mysqli_driver.php 135
+ERROR - 20180322025519 --> Severity: error --> Exception: Call to undefined function mysqli_init() /usr/share/nginx/html/system/database/drivers/mysqli/mysqli_driver.php 135
+ERROR - 20180322025520 --> Severity: error --> Exception: Call to undefined function mysqli_init() /usr/share/nginx/html/system/database/drivers/mysqli/mysqli_driver.php 135
+ERROR - 20180322025520 --> Severity: error --> Exception: Call to undefined function mysqli_init() /usr/share/nginx/html/system/database/drivers/mysqli/mysqli_driver.php 135
+ERROR - 20180322025520 --> Severity: error --> Exception: Call to undefined function mysqli_init() /usr/share/nginx/html/system/database/drivers/mysqli/mysqli_driver.php 135
+ERROR - 20180322030603 --> 404 Page Not Found: Faviconico/index
+ERROR - 20180322030605 --> 404 Page Not Found: Faviconico/index
+ERROR - 20180322031754 --> Severity: error --> Exception: Call to undefined function mysqli_init() /usr/share/nginx/html/system/database/drivers/mysqli/mysqli_driver.php 135
+ERROR - 20180322032616 --> 404 Page Not Found: Faviconico/index
+ERROR - 20180322033631 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): Connection refused /usr/share/nginx/html/system/database/drivers/mysqli/mysqli_driver.php 201
+ERROR - 20180322033631 --> Unable to connect to the database
+ERROR - 20180322033706 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): Connection refused /usr/share/nginx/html/system/database/drivers/mysqli/mysqli_driver.php 201
+ERROR - 20180322033706 --> Unable to connect to the database
+ERROR - 20180322033706 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): Connection refused /usr/share/nginx/html/system/database/drivers/mysqli/mysqli_driver.php 201
+ERROR - 20180322033706 --> Unable to connect to the database
+ERROR - 20180322033707 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): Connection refused /usr/share/nginx/html/system/database/drivers/mysqli/mysqli_driver.php 201
+ERROR - 20180322033707 --> Unable to connect to the database
+ERROR - 20180322033707 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): Connection refused /usr/share/nginx/html/system/database/drivers/mysqli/mysqli_driver.php 201
+ERROR - 20180322033707 --> Unable to connect to the database
+ERROR - 20180322033707 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): Connection refused /usr/share/nginx/html/system/database/drivers/mysqli/mysqli_driver.php 201
+ERROR - 20180322033707 --> Unable to connect to the database
+ERROR - 20180322033707 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): Connection refused /usr/share/nginx/html/system/database/drivers/mysqli/mysqli_driver.php 201
+ERROR - 20180322033707 --> Unable to connect to the database
+ERROR - 20180322033707 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): Connection refused /usr/share/nginx/html/system/database/drivers/mysqli/mysqli_driver.php 201
+ERROR - 20180322033707 --> Unable to connect to the database
+ERROR - 20180322033707 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): Connection refused /usr/share/nginx/html/system/database/drivers/mysqli/mysqli_driver.php 201
+ERROR - 20180322033707 --> Unable to connect to the database
+ERROR - 20180322033826 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): Connection refused /usr/share/nginx/html/system/database/drivers/mysqli/mysqli_driver.php 201
+ERROR - 20180322033826 --> Unable to connect to the database
+ERROR - 20180322033826 --> 404 Page Not Found: Faviconico/index
+ERROR - 20180322033827 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): Connection refused /usr/share/nginx/html/system/database/drivers/mysqli/mysqli_driver.php 201
+ERROR - 20180322033827 --> Unable to connect to the database
+ERROR - 20180322033827 --> 404 Page Not Found: Faviconico/index
+ERROR - 20180322035843 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): Connection refused /usr/share/nginx/html/system/database/drivers/mysqli/mysqli_driver.php 201
+ERROR - 20180322035843 --> Unable to connect to the database
+ERROR - 20180322035844 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): Connection refused /usr/share/nginx/html/system/database/drivers/mysqli/mysqli_driver.php 201
+ERROR - 20180322035844 --> Unable to connect to the database
+ERROR - 20180322035845 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): Connection refused /usr/share/nginx/html/system/database/drivers/mysqli/mysqli_driver.php 201
+ERROR - 20180322035845 --> Unable to connect to the database
+ERROR - 20180322035845 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): Connection refused /usr/share/nginx/html/system/database/drivers/mysqli/mysqli_driver.php 201
+ERROR - 20180322035845 --> Unable to connect to the database
+ERROR - 20180322035845 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): Connection refused /usr/share/nginx/html/system/database/drivers/mysqli/mysqli_driver.php 201
+ERROR - 20180322035845 --> Unable to connect to the database
+ERROR - 20180322035845 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): Connection refused /usr/share/nginx/html/system/database/drivers/mysqli/mysqli_driver.php 201
+ERROR - 20180322035845 --> Unable to connect to the database
+ERROR - 20180322035939 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): Connection refused /usr/share/nginx/html/system/database/drivers/mysqli/mysqli_driver.php 201
+ERROR - 20180322035939 --> Unable to connect to the database
+ERROR - 20180322035939 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): Connection refused /usr/share/nginx/html/system/database/drivers/mysqli/mysqli_driver.php 201
+ERROR - 20180322035939 --> Unable to connect to the database
+ERROR - 20180322035939 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): Connection refused /usr/share/nginx/html/system/database/drivers/mysqli/mysqli_driver.php 201
+ERROR - 20180322035939 --> Unable to connect to the database
+ERROR - 20180322035940 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): Connection refused /usr/share/nginx/html/system/database/drivers/mysqli/mysqli_driver.php 201
+ERROR - 20180322035940 --> Unable to connect to the database
+ERROR - 20180322035940 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): Connection refused /usr/share/nginx/html/system/database/drivers/mysqli/mysqli_driver.php 201
+ERROR - 20180322035940 --> Unable to connect to the database
+ERROR - 20180322035940 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): Connection refused /usr/share/nginx/html/system/database/drivers/mysqli/mysqli_driver.php 201
+ERROR - 20180322035940 --> Unable to connect to the database
+ERROR - 20180322035940 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): Connection refused /usr/share/nginx/html/system/database/drivers/mysqli/mysqli_driver.php 201
+ERROR - 20180322035940 --> Unable to connect to the database
+ERROR - 20180322035940 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): Connection refused /usr/share/nginx/html/system/database/drivers/mysqli/mysqli_driver.php 201
+ERROR - 20180322035940 --> Unable to connect to the database
+ERROR - 20180322035940 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): Connection refused /usr/share/nginx/html/system/database/drivers/mysqli/mysqli_driver.php 201
+ERROR - 20180322035940 --> Unable to connect to the database
+ERROR - 20180322035941 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): Connection refused /usr/share/nginx/html/system/database/drivers/mysqli/mysqli_driver.php 201
+ERROR - 20180322035941 --> Unable to connect to the database
+ERROR - 20180322035950 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): Connection refused /usr/share/nginx/html/system/database/drivers/mysqli/mysqli_driver.php 201
+ERROR - 20180322035950 --> Unable to connect to the database
+ERROR - 20180322035951 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): Connection refused /usr/share/nginx/html/system/database/drivers/mysqli/mysqli_driver.php 201
+ERROR - 20180322035951 --> Unable to connect to the database
+ERROR - 20180322035951 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): Connection refused /usr/share/nginx/html/system/database/drivers/mysqli/mysqli_driver.php 201
+ERROR - 20180322035951 --> Unable to connect to the database
+ERROR - 20180322035951 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): Connection refused /usr/share/nginx/html/system/database/drivers/mysqli/mysqli_driver.php 201
+ERROR - 20180322035951 --> Unable to connect to the database
+ERROR - 20180322035951 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): Connection refused /usr/share/nginx/html/system/database/drivers/mysqli/mysqli_driver.php 201
+ERROR - 20180322035951 --> Unable to connect to the database
+ERROR - 20180322035951 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): Connection refused /usr/share/nginx/html/system/database/drivers/mysqli/mysqli_driver.php 201
+ERROR - 20180322035951 --> Unable to connect to the database
+ERROR - 20180322035951 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): Connection refused /usr/share/nginx/html/system/database/drivers/mysqli/mysqli_driver.php 201
+ERROR - 20180322035951 --> Unable to connect to the database
+ERROR - 20180322035952 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): Connection refused /usr/share/nginx/html/system/database/drivers/mysqli/mysqli_driver.php 201
+ERROR - 20180322035952 --> Unable to connect to the database
+ERROR - 20180322035952 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): Connection refused /usr/share/nginx/html/system/database/drivers/mysqli/mysqli_driver.php 201
+ERROR - 20180322035952 --> Unable to connect to the database
+ERROR - 20180322035952 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): Connection refused /usr/share/nginx/html/system/database/drivers/mysqli/mysqli_driver.php 201
+ERROR - 20180322035952 --> Unable to connect to the database
+ERROR - 20180322035952 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): Connection refused /usr/share/nginx/html/system/database/drivers/mysqli/mysqli_driver.php 201
+ERROR - 20180322035952 --> Unable to connect to the database
+ERROR - 20180322035952 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): Connection refused /usr/share/nginx/html/system/database/drivers/mysqli/mysqli_driver.php 201
+ERROR - 20180322035952 --> Unable to connect to the database
+ERROR - 20180322035953 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): Connection refused /usr/share/nginx/html/system/database/drivers/mysqli/mysqli_driver.php 201
+ERROR - 20180322035953 --> Unable to connect to the database
+ERROR - 20180322035953 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): Connection refused /usr/share/nginx/html/system/database/drivers/mysqli/mysqli_driver.php 201
+ERROR - 20180322035953 --> Unable to connect to the database
+ERROR - 20180322035953 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): Connection refused /usr/share/nginx/html/system/database/drivers/mysqli/mysqli_driver.php 201
+ERROR - 20180322035953 --> Unable to connect to the database
+ERROR - 20180322035953 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): Connection refused /usr/share/nginx/html/system/database/drivers/mysqli/mysqli_driver.php 201
+ERROR - 20180322035953 --> Unable to connect to the database
+ERROR - 20180322035953 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): Connection refused /usr/share/nginx/html/system/database/drivers/mysqli/mysqli_driver.php 201
+ERROR - 20180322035953 --> Unable to connect to the database
+ERROR - 20180322035954 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): Connection refused /usr/share/nginx/html/system/database/drivers/mysqli/mysqli_driver.php 201
+ERROR - 20180322035954 --> Unable to connect to the database
+ERROR - 20180322035954 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): Connection refused /usr/share/nginx/html/system/database/drivers/mysqli/mysqli_driver.php 201
+ERROR - 20180322035954 --> Unable to connect to the database
+ERROR - 20180322035954 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): Connection refused /usr/share/nginx/html/system/database/drivers/mysqli/mysqli_driver.php 201
+ERROR - 20180322035954 --> Unable to connect to the database
+ERROR - 20180322054315 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'root'@'172.17.0.4' (using password: YES) /usr/share/nginx/html/system/database/drivers/mysqli/mysqli_driver.php 201
+ERROR - 20180322054315 --> Unable to connect to the database
+ERROR - 20180322135110 --> Severity: Warning --> mysqli::real_connect(): php_network_getaddresses: getaddrinfo failed: ��֪������������  E:\vagrant\ubuntu\ci\system\database\drivers\mysqli\mysqli_driver.php 201
+ERROR - 20180322135110 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: ��֪������������  E:\vagrant\ubuntu\ci\system\database\drivers\mysqli\mysqli_driver.php 201
+ERROR - 20180322135110 --> Unable to connect to the database
